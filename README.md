@@ -5,11 +5,12 @@
 **What can the sound of a song tell us about it?**
 Clustering, popularity regression, genre classification and association rules on 114K Spotify tracks.
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-data-150458?logo=pandas&logoColor=white)
-![Course](https://img.shields.io/badge/Course-Data%20Mining-1DB954)
+<p align="center">
+  <i></i><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,sklearn,git" />
+  </a>
+</p>
 
 </div>
 
@@ -26,7 +27,7 @@ Final project for the **Data Mining** course (UANL, FCFM, Group 032). We apply t
 | 3 | Can we recognize a song's genre from its audio? | **Random Forest**, **SVM** |
 | 4 | Which audio traits go along with high popularity? | **Apriori** association rules |
 
-## 🗂️ Dataset
+## Dataset
 
 - **114,000 tracks · 114 genres · 21 columns**
 - Metadata (artist, album, track, genre, popularity, duration, explicit) and **audio features**: `danceability`, `energy`, `loudness`, `speechiness`, `acousticness`, `instrumentalness`, `liveness`, `valence`, `tempo`, `key`, `mode`, `time_signature`.
