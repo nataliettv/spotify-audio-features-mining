@@ -68,7 +68,7 @@ The notebook reads `dataset.csv` from the same folder, so run it from the reposi
 Python · Jupyter Notebook · pandas · NumPy · scikit-learn · Matplotlib · seaborn.
 Apriori is implemented from scratch in the notebook, and `HistGradientBoostingRegressor` (scikit-learn) is used as the gradient boosting model.
 
-## 👥 Team
+## Team
 
 - Luis Rolando Aguilar Ortiz
 - Yael Abiezer García Guerra
@@ -78,7 +78,7 @@ Apriori is implemented from scratch in the notebook, and `HistGradientBoostingRe
 
 *Facultad de Ciencias Físico Matemáticas, Universidad Autónoma de Nuevo León.*
 
-## 📚 References
+## References
 
 - Pandya, M. *Spotify Tracks Dataset*. Hugging Face.
 - Pedregosa, F. et al. (2011). Scikit-learn: Machine learning in Python. *JMLR, 12*, 2825–2830.
