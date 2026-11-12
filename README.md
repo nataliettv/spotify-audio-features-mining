@@ -64,7 +64,7 @@ The notebook reads `dataset.csv` from the same folder, so run it from the reposi
 └── *.pdf                          # Project report and slides
 ```
 
-## 🛠️ Tools
+## Tools
 
 Python · Jupyter Notebook · pandas · NumPy · scikit-learn · Matplotlib · seaborn.
 Apriori is implemented from scratch in the notebook, and `HistGradientBoostingRegressor` (scikit-learn) is used as the gradient boosting model.
