@@ -44,9 +44,7 @@ Source: *Spotify Tracks Dataset* (Pandya, Hugging Face), collected through the S
 | **Genre (10 classes)** | Random Forest **57.2%** · SVM 53.3% |
 | **Association rules** | 281 rules → high popularity (max lift **1.39**), 226 rules → low popularity (max lift **1.91**) |
 
-> 💡 **Takeaway:** audio features are great to *describe and organize* a music catalog, but they are **not enough to predict a song's success**. That depends on the artist, promotion and user behavior.
-
-## 🚀 How to run
+## How to run
 
 ```bash
 git clone https://github.com/nataliettv/spotify-audio-features-mining.git
@@ -88,4 +86,3 @@ Apriori is implemented from scratch in the notebook, and `HistGradientBoostingRe
 
 ---
 
-<div align="center">Made with 🎵 and a lot of data</div>
